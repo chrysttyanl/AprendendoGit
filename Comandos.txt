@@ -1,0 +1,21 @@
+Comando para criar o git:
+git init
+
+Verificar os status:
+git status
+
+Adicionar um arquivo:
+git add "nomearquivo.txt"
+
+Adicionar todos arquivos:
+git add .
+
+Adicionar dados e e-mail da conta:
+git config --global user.name "Seu nome"
+git config --global user.emaiml"seuemail@"
+
+Acessando o repositório online
+git remote add origin https://github.com/chrysttyanl/AprendendoGit
+
+Adicionar o branch
+git push --set-upstream origin master
