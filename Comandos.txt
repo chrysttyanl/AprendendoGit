@@ -4,6 +4,9 @@ git init
 Verificar os status:
 git status
 
+Commitar a versão:
+git commit -m "mensagem"
+
 Adicionar um arquivo:
 git add "nomearquivo.txt"
 
@@ -19,3 +22,10 @@ git remote add origin https://github.com/chrysttyanl/AprendendoGit
 
 Adicionar o branch
 git push --set-upstream origin master
+
+Verificar versões
+git reflog
+
+Voltar versão
+git reset --hard Código
+
