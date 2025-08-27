@@ -29,3 +29,12 @@ git reflog
 Voltar versão
 git reset --hard Código
 
+Verificar os branch
+git branch
+
+Criar branch
+git branch nome
+
+Mudar a branch
+git checkout nomebranching
+
